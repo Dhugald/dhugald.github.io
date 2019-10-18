@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Home Page</title>
+</head>
+<body>
+    <div id="container" >
+        <div class="hero-image">
+        <header class="centerHeader">
+            <h1>Audio Input and Output</h1>
+        </header>    
+        </div>
+        <nav>
+            <ul id="mainMenu">
+               <li><a href="index.html">Home</a></li>
+               <li><a href="Page4.html">Contact us!</a></li>
+               <li class="dropdown">
+               <a class="dropbtn">Item Ratings</a>
+               <div class="dropdown-content">
+                 <a href="page2.html">Inputs</a>
+                 <a href="page3.html">Outputs</a>
+               </div>
+               </li>
+               </ul>
+           </nav>
+
+        <section>
+            <h1>Welcome to the Headphone and Microphone Rating Website!</h1>
+            <article>
+                This website is made to let users give their ratings on microphones and headphones (Audio devices) 
+                Everything shown here is opinion, judged by sound quality, background noise, noise cancelation, etc.
+            </article>
+        </section>
+
+            <form class="Comment-Section">
+                <p>Name:</p>
+                <input name="FirstName" type="text" id="First-Name">
+                <br>
+                <p>Comment:</p>
+                <textarea name="comment" id="comment-input" cols="21" rows="7"></textarea>
+                <br/>
+                <input id="comment-data" type="button" value="Post" />
+            </form>
+            <p id="Name-And-Date" style="width: 250px; background-color: wheat"></p>
+            <p id="comment-output" style="width: 250px; height: 100px; background-color: wheat "></p>
+            
+    </div>
+    <script src="./assets/js/JavaScript.js"></script>
+</body>
+</html>

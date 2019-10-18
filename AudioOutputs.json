@@ -1,0 +1,30 @@
+[
+    {
+        "Device":"Arctis7",
+        "Developer":"SteelSeries",
+        "image":"./assets/images/Headphones/Arctis7.jpg"
+    },
+
+    {
+        "Device":"G933",
+        "Developer":"Logitech",
+        "image":"./assets/images/Headphones/G933.jpg"
+    },
+
+    {
+        "Device":"Kraken Pro V2",
+        "Developer":"Razer",
+        "image":"./assets/images/Headphones/KrakenProv2.jpg"
+    },
+    {
+        "Device":"Recon 200p",
+        "Developer":"Turtle Beach",
+        "image":"./assets/images/Headphones/Recon200p.jpg"
+    },
+
+    {
+        "Device":"RS 120 II",
+        "Developer":"Sennheiser",
+        "image":"./assets/images/Headphones/RS120II.jpg"
+    }
+]

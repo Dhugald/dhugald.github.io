@@ -1,0 +1,30 @@
+[
+    {
+        "Device":"AT2020",
+        "Developer":"Audio-Technica",
+        "image":"./assets/images/Microphones/AT2020.jpg"
+    },
+
+    {
+        "Device":"Yeti",
+        "Developer":"Blue",
+        "image":"./assets/images/Microphones/BlueYeti.jpg"
+    },
+
+    {
+        "Device":"Quad Cast",
+        "Developer":"Hyper-X",
+        "image":"./assets/images/Microphones/HyperXQuadCast.jpg"
+    },
+    {
+        "Device":"Siren X",
+        "Developer":"Razer",
+        "image":"./assets/images/Microphones/RazerSirenX.jpg"
+    },
+
+    {
+        "Device":"NT",
+        "Developer":"Rode",
+        "image":"./assets/images/Microphones/RodeNT.jpg"
+    }
+]

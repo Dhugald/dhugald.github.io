@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Contact Us!</title>
+</head>
+<body>
+    <div id="container">
+        <div class="hero-image">
+                <header class="centerHeader">
+                    <h1>Contact Us!</h1>
+                </header>    
+            </div>
+            <nav>
+                <ul id="mainMenu">
+                   <li><a href="index.html">Home</a></li>
+                   <li><a href="Page4.html">Contact us!</a></li>
+                   <li class="dropdown">
+                   <a class="dropbtn">Item Ratings</a>
+                   <div class="dropdown-content">
+                     <a href="page2.html">Inputs</a>
+                     <a href="page3.html">Outputs</a>
+                   </div>
+                   </li>
+                   </ul>
+               </nav>
+        <div class="Inputs_Div">
+            <p>First name</p>
+            <input type="text" id="FirstName" name="First Name">
+            <p>Last name</p>
+            <input type="text" id="LastName" name="Last Name">
+            <p>Email</p>
+            <input type="email" id="Email-Input" name="Email Input">
+            <p>Phone number</p>
+            <input type="text" id="Phone-Number" name="PhoneNumber">
+            <input type="button" id="Submit-Button" name="Submit" value="Submit">
+        </div>
+
+
+        <form class="Comment-Section">
+                <p>Name:</p>
+                <input name="FirstName" type="text" id="First-Name">
+                <br>
+                <p>Comment:</p>
+                <textarea name="comment" id="comment-input" cols="21" rows="7"></textarea>
+                <br/>
+                <input id="comment-data" type="button" value="Post" />
+            </form>
+            <p id="Name-And-Date" style="width: 250px; background-color: wheat"></p>
+            <p id="comment-output" style="width: 250px; height: 100px; background-color: khaki "></p>
+    </div>
+    <script src="./assets/js/contactus.js"></script>
+</body>
+</html>
