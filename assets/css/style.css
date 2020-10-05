@@ -15,6 +15,6 @@ body{
 }
 .centered {display: block; margin-left: auto; margin-right: auto; width: 20%; background-color: burlywood;}
 
-ul.ba {
+ul.li {
     list-style-type: none;
 }
