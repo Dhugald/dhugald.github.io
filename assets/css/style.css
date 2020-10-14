@@ -6,13 +6,6 @@
 body{
   background-color: navajowhite;
 }
-.hero-image{
-  background-image: url(/assets/images/Audio.jpg);
-  background-size: cover;
-  width: 50%;
-  margin-left: auto; 
-  margin-right: auto; 
-}
 .centered {display: block; margin-left: auto; margin-right: auto; width: 20%; background-color: burlywood;}
 
 ul {
