@@ -37,4 +37,6 @@ li a:hover {
 
   background-color: #f48c6c;
   text-align: center;
+  width: 25%;
+  align-content: center;
 }
