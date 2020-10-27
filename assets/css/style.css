@@ -4,7 +4,7 @@
     
   }
 body{
-  background-color: navajowhite;
+  background-color: #f4e4bd;
 }
 .centered {display: block; margin-left: auto; margin-right: auto; width: 20%; background-color: burlywood;}
 
@@ -31,4 +31,10 @@ li a {
 /* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #73ab93;
+}
+
+.titleDiv{
+
+  background-color: #f48c6c;
+  text-align: center;
 }
