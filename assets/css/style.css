@@ -4,7 +4,7 @@
     
   }
 body{
-  background-color: #f4e4bd;
+  background-color: whitesmoke;
 }
 .centered {display: block; margin-left: auto; margin-right: auto; width: 20%; background-color: burlywood;}
 
@@ -13,7 +13,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #5b3424;
+  background-color: darkgray;
 }
 
 li {
@@ -30,12 +30,12 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: #73ab93;
+  background-color: grey;
 }
 
 .titleDiv{
 
-  background-color: #f48c6c;
+  background-color: silver;
   text-align: center;
   width: 25%;
   align-content: center;
